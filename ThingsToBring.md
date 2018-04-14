@@ -29,4 +29,19 @@ so lots of people will refuse to take a USB drive anymore. So having a blu-ray d
 - [ ] HEALTHY food options. You should not be incentivitzing unhealthy habits by only providing junk food. You need to have options, for Vegans, Vegitarians, Keto, Primal, Gluten-free, 
 - [ ] Also junk food. 
 - [ ] You want to have a room where you can turn the lights out and not have announcements place for people to sleep if they want
+- [ ] ways to share/mirror monitors between teams
+
+## For participants
+- [ ] Extra monitors
+- [ ] monitor cables
+- [ ] dongles for monitors
+- [ ] laptop stands
+- [ ] hardware for hardware hacking
+- [ ] power cables for laptops
+
+
+
+
+
+
 
